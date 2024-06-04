@@ -1,0 +1,15 @@
+{
+  "name": "empty_object_constructor_quan",
+  "version": "1.1.0",
+  "description": "This package is an example of escape by empty object constructor from 'vm' module.\r In console, it will print expected output and the real output.\r code source: https://gist.github.com/jcreedcmu/4f6e6d4a649405a9c86bb076905696af",
+  "main": "empty_object_constructor.js",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "start": "node empty_object_constructor.js",
+    "test": "node empty_object_constructor.js && jest"
+  },
+  "author": "aldehyde",
+  "license": "ISC"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "proxy_expection_quan",
+  "version": "1.1.0",
+  "description": "This package is an example of escape by proxy expection from 'vm' module.\r In console, it will print expected output and the real output.\r code source: https://gist.github.com/jcreedcmu/4f6e6d4a649405a9c86bb076905696af",
+  "main": "proxy_expection.js",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "start": "node proxy_expection.js",
+    "test": "node proxy_expection.js && jest"
+  },
+  "author": "aldehyde",
+  "license": "ISC"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "constructor_chain_quan",
+  "version": "1.1.0",
+  "description": "This package is an example of escape by constructor chain from 'vm' module.\r In console, it will print expected output and the real output.\r code source: https://gist.github.com/jcreedcmu/4f6e6d4a649405a9c86bb076905696af",
+  "main": "constructor_chain.js",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "start": "node constructor_chain.js",
+    "test": "node constructor_chain.js && jest"
+  },
+  "author": "aldehyde",
+  "license": "ISC"
+}
