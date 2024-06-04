@@ -10,7 +10,7 @@ This vulnerability exists in vm module. This vulnerability enables an attacker t
 
 **2.How to use this package?**
 
-You only need to install the latest package using `npm i proxy_setter_quan`, then import and execute it using `require("proxy_setter_quan");`.
+At first we publish these npm packages, but we think these packages are malicious, just publish on npm is not suitable. So we deleted these packages and publish them here. You can use them for study Javascript sandbox, but don't use them to run the real malicious code. To use this package, you need to download, import and execute it using `require("proxy_setter_quan");`.
 
 **3.Output and security:**
 
